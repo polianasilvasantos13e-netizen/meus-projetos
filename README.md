@@ -1,2 +1,11 @@
-# meus-projetos
-Projetos e exercícios desenvolvidos durante minha graduação em Sistemas de Informação.
+# Meus Projetos
+
+🎓 Graduanda em Sistemas de Informação
+
+## Conhecimentos
+- Python
+- C++
+- HTML
+- SQL
+- Banco de Dados
+- Tecnologias Web
